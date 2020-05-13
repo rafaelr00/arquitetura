@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-05-13T20:12:27.456Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="ZbOD_Cv1S-GlJAf2wDyj" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-13T20:13:55.993Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="w4brt5kamNNTak_QF6Gc" version="13.1.1" type="github">
   <diagram id="inYkrisZdpCWvH0mylS8" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RXSV1Uk0eHtwvKKWFPpZ-33" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="105" width="232.75" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="4Zabpoj7PgC8b4IljEoc-7" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Database_128x128.png" parent="1" vertex="1">
           <mxGeometry x="701" y="55" width="80" height="80" as="geometry" />
         </mxCell>
@@ -29,7 +32,7 @@
           <mxGeometry x="590" y="110" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RXSV1Uk0eHtwvKKWFPpZ-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sensor;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="140" width="46.5" height="45" as="geometry" />
+          <mxGeometry x="169.5" y="140" width="46.5" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RXSV1Uk0eHtwvKKWFPpZ-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sensor;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="171" y="207.5" width="46.5" height="45" as="geometry" />
@@ -38,7 +41,7 @@
           <mxGeometry x="171" y="270" width="46.5" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RXSV1Uk0eHtwvKKWFPpZ-8" value="Sensores de campo&lt;br&gt;HotBox/HotWheel" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="41" y="135" width="120" height="30" as="geometry" />
+          <mxGeometry x="36" y="130" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RXSV1Uk0eHtwvKKWFPpZ-9" value="Caixas-preta locomotivas" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="21" y="207.5" width="150" height="20" as="geometry" />
