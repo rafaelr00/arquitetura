@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-14T20:06:34.030Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="M0U7gkQNP2fUatkZvUoS" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-14T20:08:30.394Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="l00zDQFiAYFmCDKVS0Af" version="13.1.1" type="github">
   <diagram id="inYkrisZdpCWvH0mylS8" name="Page-1">
     <mxGraphModel dx="1935" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
           <mxGeometry x="1080" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pSAQ2HHHKy2pS9uXJTof-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sensor;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="171" y="335" width="46.5" height="45" as="geometry" />
+          <mxGeometry x="171" y="330" width="46.5" height="45" as="geometry" />
         </mxCell>
         <mxCell id="pSAQ2HHHKy2pS9uXJTof-2" value="Sensores de campo&lt;br&gt;Máquinas de chave&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="42" y="337" width="117" height="32" as="geometry" />
@@ -171,7 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pSAQ2HHHKy2pS9uXJTof-11" value="Via move de arquivo Wabtec para rede de arquivos" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="255" y="182" width="283" height="18" as="geometry" />
+          <mxGeometry x="222.5" y="198" width="283" height="18" as="geometry" />
         </mxCell>
         <mxCell id="pSAQ2HHHKy2pS9uXJTof-12" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_128x128.png;align=left;" vertex="1" parent="1">
           <mxGeometry x="629" y="285" width="80" height="40" as="geometry" />
