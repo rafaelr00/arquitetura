@@ -1,6 +1,6 @@
-<mxfile modified="2020-05-18T21:23:33.822Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="PrI7au32N9dhr4QTZ2Dq" version="13.1.1" type="github">
+<mxfile modified="2020-05-18T21:24:45.346Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="lEA8xkscXinV6O0Ys6JU" version="13.1.1" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="868" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,7 +76,7 @@
         <mxCell id="n-V2UwCcqzzE48AcmJVq-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/adiante-apps-app-templates-incos-in-grey/128/app_type_public_transport_512px_GREY.png" parent="1" vertex="1">
           <mxGeometry x="394" y="683.5" width="149" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="lpPozyrtMz8kwE89SEvU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n-V2UwCcqzzE48AcmJVq-33" target="n-V2UwCcqzzE48AcmJVq-4" edge="1">
+        <mxCell id="lpPozyrtMz8kwE89SEvU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="n-V2UwCcqzzE48AcmJVq-33" target="n-V2UwCcqzzE48AcmJVq-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="421" y="102" />
@@ -156,6 +156,12 @@
         </mxCell>
         <mxCell id="UZnZhuJugHYH5vLNmMjo-2" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;" vertex="1" parent="1">
           <mxGeometry x="1063" y="341" width="81" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="UZnZhuJugHYH5vLNmMjo-8" value="NoSql" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="421" y="241.5" width="43" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="UZnZhuJugHYH5vLNmMjo-9" value="On Premisses" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="336" y="791" width="90" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
