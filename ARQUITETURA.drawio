@@ -1,4 +1,4 @@
-<mxfile modified="2020-05-18T21:49:48.630Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="UATMTm9TkPktTKS1TRSP" version="13.1.1" type="github">
+<mxfile modified="2020-05-18T21:50:45.625Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="sOQ1Q2D1-EY4HLkkAtdY" version="13.1.1" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1108" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -180,6 +180,9 @@
             <mxPoint x="490.5" y="696" as="sourcePoint" />
             <mxPoint x="486.5" y="660" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UZnZhuJugHYH5vLNmMjo-43" value="Dado Estruturado&lt;br&gt;(Sistemas Transacionais)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="747" y="637" width="145" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
