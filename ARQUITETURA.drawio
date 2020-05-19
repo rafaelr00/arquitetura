@@ -1,4 +1,4 @@
-<mxfile modified="2020-05-18T21:58:59.568Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="1D25f1L2r7zM2-Kxf-Gz" version="13.1.1" type="github">
+<mxfile modified="2020-05-19T11:35:10.523Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="XCTjjfpYkNWlk6kjRdvR" version="13.1.1" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1108" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lpPozyrtMz8kwE89SEvU-31" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Data_Lake.svg;" parent="1" vertex="1">
-          <mxGeometry x="787" y="364" width="63.84" height="84" as="geometry" />
+          <mxGeometry x="801.5" y="364" width="63.84" height="84" as="geometry" />
         </mxCell>
         <mxCell id="lpPozyrtMz8kwE89SEvU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lpPozyrtMz8kwE89SEvU-32" target="lpPozyrtMz8kwE89SEvU-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
